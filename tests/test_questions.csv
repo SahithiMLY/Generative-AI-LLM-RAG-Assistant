@@ -1,0 +1,16 @@
+Test ID,Question,Expected Behavior,Actual Result,Source,Status
+1,What is Generative AI?,Answer should be based on the uploaded documents,,,Pending
+2,What is a Large Language Model?,Answer should be based on the uploaded documents,,,Pending
+3,What is self-attention in Transformers?,Answer should be based on the uploaded documents,,,Pending
+4,What is prompt engineering?,Answer should be based on the uploaded documents,,,Pending
+5,What is Retrieval-Augmented Generation?,Answer should be based on the uploaded documents,,,Pending
+6,What are embeddings?,Answer should be based on the uploaded documents,,,Pending
+7,What is the purpose of a Transformer?,Answer should be based on the uploaded documents,,,Pending
+8,How does RAG retrieve information?,Answer should be based on the uploaded documents,,,Pending
+9,What are the benefits of RAG?,Answer should be based on the uploaded documents,,,Pending
+10,What is the role of a vector database in RAG?,Answer should be based on the uploaded documents,,,Pending
+11,Who is the current Prime Minister of India?,System should refuse because the information is not in the documents,,,Pending
+12,What is the population of India?,System should refuse because the information is not in the documents,,,Pending
+13,What is the capital of France?,System should refuse because the information is not in the documents,,,Pending
+14,Who won the FIFA World Cup in 2022?,System should refuse because the information is not in the documents,,,Pending
+15,What is today's weather in Bangalore?,System should refuse because the information is not in the documents,,,Pending

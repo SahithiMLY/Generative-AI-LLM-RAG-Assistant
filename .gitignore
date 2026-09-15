@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Streamlit
+.streamlit/
+
+# FAISS generated files
+vector_store/saved_index/
+
+# OS files
+.DS_Store
+Thumbs.db
